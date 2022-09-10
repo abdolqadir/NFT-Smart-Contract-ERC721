@@ -1,0 +1,20 @@
+{
+  "description": "This NFT proves that I have deployed a ERC721 Smart Contract on Goerli .",
+  "external_url": "https://www.linkedin.com/in/abdulqad1r",
+  "image": "hhttps://ipfs.filebase.io/ipfs/QmdaHr6SXdYGFMzC7nso9SvXBM2d3C4m7Fuqs6DMg1Qevq",
+  "name": "ERC721 PoK",
+  "attributes": [
+    {
+      "trait_type": "Token",
+      "value": "ERC721"
+    },
+    {
+      "trait_type": "Website",
+      "value": "Alchemy"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Ethereum"
+    }
+  ]
+}
